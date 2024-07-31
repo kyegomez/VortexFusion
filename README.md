@@ -1,7 +1,7 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
 # Vortex Fusion
-This is the first ever implementation of a joint Transformer + Mamba + LSTM architecture. The flow is the following: `mamba -> transformer -> lstm` in a loop. Perhaps with more iteration on model design, we can find a better architecture but this architecture is the future.
+This is the first ever implementation of a joint Transformer + Mamba + LSTM architecture. The flow is the following: `mamba -> transformer -> lstm` in a loop. Perhaps with more iteration on model design, we can find a better architecture but this architecture is the future. This model is ready for training right now. If you're interested in training this model or working on entirely new model architectures, join the discord now!
 
 
 ## install
