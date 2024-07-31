@@ -32,17 +32,5 @@ print(output.shape)
 # License
 MIT
 
-
-# Citation
-Please cite Swarms in your paper or your project if you found it beneficial in any way! Appreciate you.
-
-```bibtex
-@misc{swarms,
-  author = {Gomez, Kye},
-  title = {{Swarms: The Multi-Agent Collaboration Framework}},
-  howpublished = {\url{https://github.com/kyegomez/swarms}},
-  year = {2023},
-  note = {Accessed: Date}
-}
-```
-
+# Todo
+- [ ] Train this on the same dataset as Llama. Create one script that trains this model on a massive dataset to experiment with performance metrics. 
